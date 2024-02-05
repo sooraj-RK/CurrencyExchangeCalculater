@@ -5,9 +5,9 @@ import InputAmout from './components/InputAmout'
 import SelectCountry from './components/SelectCountry'
 import SwitchCurrency from './components/SwitchCurrency'
 import { CurrencyContext } from './context/CurrencyContext'
-import dotenv from 'dotenv';
 
-dotenv.config();
+
+
 const apikey = "fca_live_LEuIF6tyKMBoX7eLeQDGkQtDILlqhDspEA79nGml";
 
 function App() {
