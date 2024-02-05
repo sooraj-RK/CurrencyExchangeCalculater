@@ -8,7 +8,7 @@ import { CurrencyContext } from './context/CurrencyContext'
 import dotenv from 'dotenv';
 
 dotenv.config();
-const apikey = process.env.VITE_API_KEY;
+const apikey = "fca_live_LEuIF6tyKMBoX7eLeQDGkQtDILlqhDspEA79nGml";
 
 function App() {
   const {
